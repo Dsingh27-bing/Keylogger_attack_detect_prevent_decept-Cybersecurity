@@ -1,0 +1,19 @@
+[
+
+    {
+      "name": "keylogger.py"
+    },
+    {
+      "name": "keylogger"
+    },
+    {
+      "name": ".*keylogger.*"
+    },
+    {
+      "name": ".*keystroke.*"
+    },
+    {
+      "name": ".*keycapture.*"
+    }
+
+]
